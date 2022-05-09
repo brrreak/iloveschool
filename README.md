@@ -23,3 +23,4 @@ Games are not included by default due to the extremely large size of them.
 ```
 git clone https://github.com/caracal-js/gfiles.git source
 ```
+[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/brrreak/iloveschool)
